@@ -1,0 +1,9 @@
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\bin\Debug\MSWord.exe.config
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\bin\Debug\MSWord.exe
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\bin\Debug\MSWord.pdb
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\obj\Debug\MSWord.csprojResolveAssemblyReference.cache
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\obj\Debug\MSWord.Form1.resources
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\obj\Debug\MSWord.Properties.Resources.resources
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\obj\Debug\MSWord.csproj.GenerateResource.Cache
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\obj\Debug\MSWord.exe
+c:\users\pcs\documents\visual studio 2013\Projects\MSWord\MSWord\obj\Debug\MSWord.pdb
